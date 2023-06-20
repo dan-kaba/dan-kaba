@@ -1,6 +1,6 @@
-# Dan Kabachenko - 🚀 React Developer
+# Dan Kabachenko - React Developer
 
-Hi there! 👋 I'm Dan Kabachenko, a highly experienced React/Node.js developer with over 4 years of professional experience, with a primary focus on the React ecosystem. In every project, I take ownership over tasks and produce significant input as both an individual contributor and a team member.
+Hi there! I'm Dan Kabachenko, a highly experienced React/Node.js developer with over 4 years of professional experience, with a primary focus on the React ecosystem. In every project, I take ownership over tasks and produce significant input as both an individual contributor and a team member.
 
 ## Skills
 
@@ -29,18 +29,6 @@ Here are some of the skills and technologies that I'm proficient in:
 ![image](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
 ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
 
-## How I Can Help You
-
-As a React developer, I can help you with the following:
-
-- 🛠️ Building scalable and maintainable web applications using the React and Node.js.
-- 🎨 Developing custom web components and UI libraries using styled components, Ant Design, and Material UI.
-- 🔍 Setting up and optimizing SQL and NoSQL databases like MongoDB, PostgreSQL and Firebase.
-- 📦 Containerizing applications using Docker and deploying them to cloud platforms like AWS and Google Cloud.
-- 🛡️ Setting up CI/CD pipelines using tools like CircleCI and GitHub Actions to ensure smooth and reliable deployments.
-- 🧪 Writing unit and integration tests using Jest, Faker, and Cypress to ensure the quality of code.
-- 📈 Optimizing web application performance using tools like Webpack, Babel, and code splitting.
-
 ## Get in Touch
 
-If you're interested in working together, feel free to reach out to me at [daniilsaphire@gmail.com](mailto:daniilsaphire@gmail.com). I'd love to hear about your project and see how I can help! 😄
+If you're interested in working together, feel free to reach out to me at [daniilsaphire@gmail.com](mailto:daniilsaphire@gmail.com). 
